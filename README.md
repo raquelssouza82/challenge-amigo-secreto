@@ -37,4 +37,4 @@ Este projeto implementa uma aplicação simples para organizar um sorteio de **A
 
 ---
 
-Valeu Oracle Next Education e Alura Latam!
+Gostaria de agradecer à Oracle Next Education e à Alura Latam! Foi uma jornada desafiadora para quem começou do zero, mas o maior obstáculo foi memorizar todos os comandos. Depois de algumas tentativas, finalmente consegui e estou muito feliz com o resultado!
