@@ -11,7 +11,7 @@ function atualizarNumeroLimite() {
     return nomeDosAmigos.length;
 }
 
-// Atualiza o texto inicial corretamente
+
 exibirTextoNaTela('h2', 'Insira seu nome');
 
 function adicionarAmigo() {
@@ -29,7 +29,7 @@ function adicionarAmigo() {
         return;
     }
 
-    let regex = /^[a-zA-ZÀ-ÿ\s]+$/; // Apenas letras e espaços permitidos
+    let regex = /^[a-zA-ZÀ-ÿ\s]+$/; 
     if (!regex.test(nome)) {
         alert('O nome deve conter apenas caracteres válidos.');
         return;
@@ -62,7 +62,7 @@ function sortearAmigo() {
 
     alert(`O seu amigo secreto é ${amigoSorteado}!`);
 
-    // Resetando a lista
+
     nomeDosAmigos = [];
     document.getElementById('amigo').value = "";
     document.getElementById('listaAmigos').innerHTML = "";
