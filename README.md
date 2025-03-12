@@ -30,7 +30,7 @@ Este projeto implementa uma aplicação simples para organizar um sorteio de **A
 
 ## Exemplo de uso
 
-![Acesse o site](https://challenge-amigo-secreto-orpin-gamma.vercel.app/)
+[Acesse o site](https://challenge-amigo-secreto-orpin-gamma.vercel.app/)
 
 1. Adicione seu nome e os dos seus amigos.
 2. Clique em "Sortear" para ver o resultado!
